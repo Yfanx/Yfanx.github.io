@@ -34,7 +34,7 @@ body.dark-theme {
 
 
 .dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded{
-		position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease;  animation: light 2s ease-in-out infinite; 
+		position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease;  animation: light 2s ease-in-out infinite;
 	transition: 0.5s;
 }
 .dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played
@@ -44,16 +44,16 @@ body.dark-theme {
 	top:0;
 	bottom:0;
 	background:#b7daff;
-	height:2px animation: light 8s ease-in-out infinite; 
-	
-        animation: light 8s ease-in-out infinite; 
+	height:2px animation: light 8s ease-in-out infinite;
+
+        animation: light 8s ease-in-out infinite;
 	transition: 0.5s;
- 
+
 
 
 }
 
- 
+
 
 
 
@@ -98,7 +98,7 @@ body.dark-theme {
 /*.dark-theme .nickname {
 	font-size: 2em;
 	font-weight: normal;
-    
+
     animation: shake-it .5s reverse infinite cubic-bezier(0.68, -0.55, 0.27, 1.55);
 }*/
  .dark-theme .archive-item-link {

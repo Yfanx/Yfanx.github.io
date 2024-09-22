@@ -214,15 +214,15 @@ font-family: "Microsoft JhengHei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro
 }
 .bookmark{
     width: 100%;
-    text-align: left;   
-    line-height: 45px; 
+    text-align: left;
+    line-height: 45px;
     letter-spacing: 0.8rem;
     font-family: "bookmark","Microsoft JhengHei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
     font-size: 18px;
-} 
-.bookmark a{  
+}
+.bookmark a{
     letter-spacing: 0.13rem;
-} 
+}
 blockquote {
 	color: #707070;
 	padding:0px 10px 0px 10px;
@@ -358,7 +358,7 @@ code {
 	word-break: break-all;
 }
 
-em{	
+em{
  padding-left:20px;
 	line-height:1.8;
 	font-size:14px;
@@ -1256,7 +1256,7 @@ html {
 	height: 100%;
 	z-index: -1;
   }*/
-  
+
   a {
 	color: #161209;
 	text-decoration: none;
@@ -1281,7 +1281,7 @@ html {
 
 
 
-	
+
 
 
 
@@ -1329,9 +1329,9 @@ html {
 	margin-top: 0vh;
 	margin-bottom: 65px;
   }
- 	
+
   @charset "utf-8";
-  
+
   *{
 	  -webkit-tap-highlight-color: rgba(0,0,0,0);
   }
@@ -1393,7 +1393,7 @@ html {
 	url('../fonts/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
 	url('../fonts/iconfont.svg') format('svg'); /* iOS 4.1- */
   }
-  
+
   .iconfont {
 	font-family: "iconfont" !important;
 	font-size: 16px;
@@ -1401,7 +1401,7 @@ html {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
   }
-  
+
   .header-logo a {
 	padding: 0;
   }
@@ -1412,7 +1412,7 @@ html {
 	font-weight: 900;
 	color: #161209;
   }
- 
+
   .navbar-header a:hover,
   .navbar .menu a:hover {
 	background-color: transparent;
@@ -1458,7 +1458,7 @@ html {
   .pagination .page-number:hover a {
 	color: #000;
   }
- 
+
   .pagination .page-number:before,
   .pagination .page-number:after {
 	position: absolute;
@@ -1469,7 +1469,7 @@ html {
 	transition: 0.3s;
 	bottom: 0px;
   }
-  
+
   .pagination .page-number:before .current,
   .pagination .page-number:after .current {
 	width: 100%;
@@ -1563,14 +1563,14 @@ html {
         text-shadow: 3px 0 rgba(0, 255, 255, .5), 5px 0 rgba(255, 0, 0, .5);
     }
 
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
   }
   .links a {
 	padding: 0 5px;
@@ -1601,7 +1601,7 @@ html {
 	color: #2d96bd;
 	background-color: transparent;
   }
- 
+
   .archive-item-date {
 	float: right;
 	text-align: right;
@@ -1652,7 +1652,7 @@ html {
 	color: #2d96bd;
 	transform: scale(1.1);
   }
- 
+
   .tag-cloud-tags a small {
 	margin: 0 0.3em;
 	color: #a9a9b3;
@@ -1679,11 +1679,11 @@ html {
   .post-wrap .post-meta {
 	color: rgba(85,85,85,0.529) !important;
   }
- 
+
   .post-wrap .post-meta a {
 	color: #2d96bd;
   }
- 
+
   .post-content {
 	padding-top: 2rem;
 	text-align: justify;
@@ -1850,7 +1850,7 @@ html {
   .post-copyright a {
 	color: #2d96bd;
   }
- 
+
   .post-copyright a:hover {
 	color: #ef3982;
   }
@@ -1861,7 +1861,7 @@ html {
   .post-copyright .lincese {
 	font-weight: bold;
   }
- 
+
   .post-content code,
   .post-content pre {
 	line-height: 1.7em;
@@ -2017,7 +2017,7 @@ html {
 	color: #808080;
   }
   .toc{overflow-y:auto}.toc>.toc-list{overflow:hidden;position:relative}.toc>.toc-list li{list-style:none}.toc-list{margin:0;padding-left:10px}a.toc-link{color:currentColor;height:100%}.is-collapsible{max-height:1000px;overflow:hidden;transition:all 300ms ease-in-out}.is-collapsed{max-height:0}.is-position-fixed{position:fixed !important;top:0}.is-active-link{font-weight:700}.toc-link::before{background-color:#EEE;content:' ';display:inline-block;height:inherit;left:0;margin-top:-1px;position:absolute;width:2px}.is-active-link::before{background-color:#54BC4B}
-  
+
   @media screen and (max-width: 479px) {
 	.main {
 	  padding-top: 40pt;
@@ -2257,23 +2257,23 @@ html {
   .post-content pre .javascript .function {
 	color: #8959a8;
   }
-  
+
   .menu.navbar-right{ text-align: center;}
   .navbar-header.header-logo {margin-top: 20px;
-  
+
   }
   @font-face{font-family:aplayer-fontello;src:url(../fonts/aplayer-fontello.eot);
-	src:url(../fonts/aplayer-fontello.eot) 
+	src:url(../fonts/aplayer-fontello.eot)
 	format("embedded-opentype"),
-	url(../fonts/aplayer-fontello.woff) 
-	format("woff"),url(../fonts/aplayer-fontello.ttf) 
-	format("truetype"),url(../fonts/aplayer-fontello.svg) 
+	url(../fonts/aplayer-fontello.woff)
+	format("woff"),url(../fonts/aplayer-fontello.ttf)
+	format("truetype"),url(../fonts/aplayer-fontello.svg)
 	format("svg");
 	font-weight:400;font-style:normal}
 	.aplayer-narrow{width:66px}
 	.aplayer-narrow .aplayer-info{display:none}
 	.aplayer-withlrc.aplayer-narrow{width:106px}
-	.aplayer-withlrc.aplayer 
+	.aplayer-withlrc.aplayer
 	/*.aplayer-pic{height:106px;width:106px}*/
 	aplayer-withlrc.aplayer .aplayer-info{margin-left:106px;height:106px}
 	.aplayer-withlrc.aplayer .aplayer-lrc{display:block}
@@ -2326,7 +2326,7 @@ html {
 	.aplayer .aplayer-info .aplayer-music .aplayer-title{font-size:14px}
 	.aplayer .aplayer-info .aplayer-music .aplayer-author{font-size:12px;color:#666}
 	.aplayer .aplayer-info .aplayer-controller{position:relative}
-	.aplayer .aplayer-info .aplayer-controller 
+	.aplayer .aplayer-info .aplayer-controller
 	.aplayer-bar-wrap{margin:0 0 5px}
 	.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar{position:relative;height:2px;width:100%;background:#cdcdcd;cursor:pointer!important}
 	.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded{position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played{position:absolute;left:0;top:0;bottom:0/*;background:#87878d8a*/;height:2px}
@@ -2407,7 +2407,7 @@ html {
         opacity: 0.6;
     }
 }
-  
+
 .list, .list li, .list-left li {
 	list-style: none;
 	list-style-type: none;
@@ -2449,7 +2449,7 @@ html {
 
 	z-index: 1;
 }
- 
+
 #donateBox li {
 	width: 100px;
 	float: left;
